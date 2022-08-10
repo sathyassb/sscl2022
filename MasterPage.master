@@ -1,0 +1,356 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>Shivamogga Smart City Limited </title>
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap" rel="stylesheet">
+    <link href="assets/css/backtotop.css" rel="stylesheet" />
+    <link rel="icon" href="assets/images/favicon.png" type="image/gif" sizes="32x32">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        crossorigin="anonymous"></script>
+
+    <link href="assets/libs/ekko/ekko.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="assets/css/carousel.css" rel="stylesheet">
+    <style>
+        p.logo-description {
+            font-size: 13px;
+            font-family: 'Heebo';
+            margin-top: 9px;
+            color: #3e561a;
+        }
+
+        .navbar-strip ul {
+            display: flex;
+            list-style: none;
+            margin-top: -2px;
+        }
+
+        .navbar-strip a {
+            color: black;
+        }
+
+        .navbar-strip ul {
+            display: flex;
+            list-style: none;
+            margin-top: 2px;
+            margin-left: -74px;
+            font-size: 13px;
+            font-family: 'Heebo';
+        }
+
+        .footer-logo-img {
+            width: 160px;
+        }
+    </style>
+</head>
+<form runat="server" id="form1">
+    <body>
+
+        <header>
+
+            <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light container" id="navbar">
+                <a class="navbar-brand" href=".">
+                    <img src="/assets/images/logo.png" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav mr-auto eng">
+                        <li class="nav-item">
+                            <a class="nav-link" href=".">Home
+                            
+                            </a>
+                            <p class="menu-text">Shivamogga</p>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Smart City
+                                        
+                            </a>
+                            <p class="menu-text">About Smart City</p>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">About Shivamogga Smart City</a>
+                                <a class="dropdown-item" href="#">Board of Directors and Staffs</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Annual Report & RTI</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="services">Events
+                            
+                            </a>
+                            <p class="menu-text">News and Events</p>
+                        </li>
+
+
+                       <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tenders
+                                        
+                            </a>
+                            <p class="menu-text">Projects & Tenders</p>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Completed Projects</a>
+                                <a class="dropdown-item" href="#">Ongoing Projects</a>
+                                <a class="dropdown-item" href="#">Tendered Projects</a>
+                                <a class="dropdown-item" href="#">DPR Stage Projects</a>
+                            </div>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" >Userful Links
+                            
+                            </a>
+                            <p class="menu-text">Check it Out !</p>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" >Grevance
+                            
+                            </a>
+                            <p class="menu-text">Submit your Feedback</p>
+                        </li>
+
+
+
+                    </ul>
+                    <div class="right-logo flipLoading">
+                        <img src="/assets/images/right-logo.jpg" id="logo" />
+                    </div>
+                    <div class="clearfix"></div>
+            </nav>
+            <div class="container navbar-strip bg-light container" id="navbar-strip">
+                <div class="row">
+                    <div class="col-2">
+                        <p class="logo-description">Shivamogga Smart City</p>
+                    </div>
+                    <div class="col-10">
+                        <ul>
+                            <li>
+                                <a class="nav-link" >Media & News
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >RTI
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >PMU
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >Tourist Places
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >Career
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" >City Corporation
+                                </a>
+                            </li>
+                             <li>
+                                <a class="nav-link" >City Corporation
+                                </a>
+                              
+                            </li>
+                            <li>
+                                <a class="nav-link" >Gallery
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+
+        <asp:ContentPlaceHolder ID="contentPlaceholder" runat="server">
+        </asp:ContentPlaceHolder>
+        <style>
+            .footer p {
+                color: lightgray;
+            }
+
+            .footer h6 {
+                color: #FFF;
+                font-size: 22px;
+            }
+        </style>
+        <footer class="footer col-12">
+            <div class="container-fluid">
+                <div class="fix-width">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6">
+
+                            <img class="footer-logo-img" src="/assets/images/logo.png">
+                            <h6>Shivamogga Smart City Limited</h6>
+                            <p>
+                                www.shivamoggasmartcity.co.in
+                    1st floor, Corporation Building block
+                    SN Market, Nehru Road,
+                    Shivamogga, Karnataka 577201
+                    Phone : 08182-279951
+                    Email : shimogasmartcity@gmail.com
+                            </p>
+                        </div>
+                        <div class="col-md-8 col-sm-6 mt-5">
+                            <div class="row">
+                                <div class="col-md-4 col-sm-6">
+                                    <h5>Sitemap</h5>
+                                    <ul>
+                                        <li>
+                                            <a href="home">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">About</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Gallery</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Media & News</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col-sm-6">
+                                    <h5>Important Links</h5>
+                                    <ul>
+                                        <li>
+                                            <a href="home">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">About</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Gallery</a>
+                                        </li>
+                                        <li>
+                                            <a href="home">Media & News</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col-sm-6">
+                                    <h5>Visitor's Count</h5>
+                                    <ul>
+                                        <li>
+                                            <p>Totay :485 </p>
+                                        </li>
+                                        <li>
+                                            <p>This Month: 7485 </p>
+                                        </li>
+                                        <li>
+                                            <p>Total : 45032 </p>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <section>
+                        </section>
+
+                        <div class="clearfix"></div>
+
+                    </div>
+                    <div class="clearfix"></div>
+
+                </div>
+
+            </div>
+        </footer>
+        <div class="footer-strip">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-md-4 col-6">
+                        <ul class="footer-social list-icons">
+                            <a href="">
+                                <img src="assets/images/facebook.png">
+                            </a>
+                            <a href="">
+                                <img src="assets/images/twitter.png">
+                            </a>
+                            <a href=".">
+                                <img src="assets/images/insta.png">
+                            </a>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-8 col-6 right">
+                        <h3 class=" float-right">Live here. Learn here. Play here</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-strip-two">
+            <div class="container">
+                <div class="row">
+                    
+                    
+                    <div class="col-md-8 col-6">
+                        <span><span id="lblFooterCopyright">© 2021. All Rights Reserved.</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+
+
+
+
+        <script src="assets/js/backtotop.js"></script>
+
+        <script src="assets/js/bootstrap.bundle.js"></script>
+
+        <script src="assets/libs/ekko/ekko.js"></script>
+        <script src="assets/libs/ekko/ekko-init.js"></script>
+        <script>
+            window.onscroll = function () { myFunction() };
+
+            var navbar = document.getElementById("navbar");
+            var navbar2 = document.getElementById("navbar-strip");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky")
+                    navbar2.classList.add("sticky")
+                } else {
+                    navbar.classList.remove("sticky");
+                    navbar2.classList.remove("sticky");
+                }
+            }
+        </script>
+
+    </body>
+</form>
+</html>
+
+
+
+
