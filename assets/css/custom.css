@@ -510,11 +510,14 @@ section.section-first {
         width: 100%;
         height: auto;
     }
+.thumb-image-photo {
+    width: 200px!important;
+}
 
 .thumb-image-photo {
     width: auto;
     overflow: hidden;
-    height: 350px;
+    height: 200px;
     width: auto;
     border: 1px solid #d9d9d9;
     text-align: center;

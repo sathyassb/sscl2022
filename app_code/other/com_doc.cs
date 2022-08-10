@@ -5,6 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
+using System.Web.Script.Serialization;
 
 /// <summary>
 /// Summary description for Class1
@@ -43,7 +44,7 @@ public class com_doc
     public com_doc InsertOrUpdate()
     {
         tcrestconnect rest = new tcrestconnect();
-        var jsonrq = JsonConvert.SerializeObject(this);
+        var jsonrq = new JavaScriptSerializer().Serialize(this);
         string jsonres = rest.tcWebRequest("POST", url, "", jsonrq);
         com_doc docs = JsonConvert.DeserializeObject<com_doc>(jsonres);
         return docs;
@@ -51,7 +52,7 @@ public class com_doc
     public void Update(string tablename,long docid)
     {
         tcrestconnect rest = new tcrestconnect();
-        var jsonrq = JsonConvert.SerializeObject(this);
+        var jsonrq = new JavaScriptSerializer().Serialize(this);
         string jsonres = rest.tcWebRequest("PUT", url, tablename+"/"+docid.ToString(), jsonrq);
     }
     public int Delete(string tablename,string postid)

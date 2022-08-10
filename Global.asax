@@ -13,11 +13,6 @@
     public static void RegisterRoutes(RouteCollection routes)
     {
         routes.MapPageRoute("about", "about", "~/about.aspx");
-        routes.MapPageRoute("services", "services", "~/services.aspx");
-        routes.MapPageRoute("features", "features", "~/features.aspx");
-        routes.MapPageRoute("pricing", "pricing", "~/pricing.aspx");
-        routes.MapPageRoute("faq", "faq", "~/faq.aspx");
-        routes.MapPageRoute("contact", "contact", "~/contact.aspx");
           
         
     }
