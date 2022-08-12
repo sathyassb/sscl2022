@@ -16,7 +16,7 @@
         routes.MapPageRoute("gallery", "gallery", "~/gallery.aspx");
         routes.MapPageRoute("gallery-view", "gallery-view", "~/gallery-view.aspx");
         routes.MapPageRoute("news", "news", "~/news.aspx");
-        routes.MapPageRoute("page", "page", "~/page.aspx");
+        routes.MapPageRoute("page", "page", "~/page.aspx"); 
         routes.MapPageRoute("notifications", "notifications", "~/notifications.aspx");
           
         
