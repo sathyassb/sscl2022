@@ -97,7 +97,7 @@
 
 
                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tenders
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects
                                         
                             </a>
                             <p class="menu-text">Projects & Tenders</p>
@@ -138,21 +138,22 @@
                     <div class="col-10">
                         <ul>
                             <li>
-                                <a class="nav-link" >Media & News
+                                <a class="nav-link" href="notifications">Notifications
                                 </a>
                             </li>
                             <li>
-                                <a class="nav-link" >RTI
+                                <a class="nav-link" href="news" >Media & News
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link" href="about#rti" >RTI
                                 </a>
                             </li>
                             <li>
                                 <a class="nav-link" >Contact Us
                                 </a>
                             </li>
-                            <li>
-                                <a class="nav-link" >PMU
-                                </a>
-                            </li>
+                            
                             <li>
                                 <a class="nav-link" >Tourist Places
                                 </a>
@@ -161,17 +162,14 @@
                                 <a class="nav-link" >Career
                                 </a>
                             </li>
-                            <li>
-                                <a class="nav-link" >City Corporation
-                                </a>
-                            </li>
+                          
                              <li>
-                                <a class="nav-link" >City Corporation
+                                <a class="nav-link" href="http://shivamoggacitycorp.org/" target="_blank" >City Corporation
                                 </a>
                               
                             </li>
                             <li>
-                                <a class="nav-link" >Gallery
+                                <a class="nav-link" href="gallery" >Gallery
                                 </a>
                             </li>
 

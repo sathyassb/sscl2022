@@ -559,16 +559,14 @@ section.section-first {
 }
 
 .thumb-text-news {
-    position: absolute;
     z-index: 100000;
-    bottom: 35px;
-    padding-left: 6px;
-    margin-right: 28px;
+    padding: 10px;
     font-size: 16px;
     font-family: 'Noto Sans HK', sans-serif;
     color: white;
     border-radius: 2px;
-    background: #b54b37cf;
+    background: #838383cf;
+    margin-bottom: 20px;
 }
 
 .cms-image-box-page img {

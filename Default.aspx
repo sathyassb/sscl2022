@@ -9,7 +9,7 @@
             height: 760px;
             width: 80%;
             position: relative;
-            color: white;
+            color: white;j
         }
 
         .about-city-contents {
